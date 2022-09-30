@@ -20,6 +20,7 @@ function save() {
     } else {
       savep.innerText += "-" + countN;
       countp.innerText = 0;
+      countN = 0;
     }
   }
 }
