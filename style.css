@@ -108,14 +108,14 @@ button {
   }
 
   .ticketCounter .countp {
-    font-size: 120px;
+    font-size: 20px;
   }
 
   button {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    font-size: 50px;
+    font-size: 30px;
     width: 100%;
     padding: px 0;
     color: aliceblue;
@@ -137,6 +137,6 @@ button {
 
   #savep {
     margin-top: 30px;
-    font-size: 30px;
+    font-size: 20px;
   }
 }
