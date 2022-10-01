@@ -59,11 +59,11 @@ button {
 }
 #saveb {
   margin-top: 20px;
-  background-color: red;
+  background-color: rgb(208, 0, 255);
 }
 #resetb {
   margin-top: 20px;
-  background-color: rgb(112, 24, 118);
+  background-color: rgb(245, 67, 67);
 }
 
 #savep {
@@ -126,17 +126,16 @@ button {
     margin-top: 20px;
     background-color: green;
   }
+  #countb {
+    margin-top: 20px;
+    background-color: green;
+  }
   #saveb {
     margin-top: 20px;
-    background-color: red;
+    background-color: rgb(208, 0, 255);
   }
   #resetb {
     margin-top: 20px;
-    background-color: rgb(112, 24, 118);
-  }
-
-  #savep {
-    margin-top: 30px;
-    font-size: 20px;
+    background-color: rgb(245, 67, 67);
   }
 }
